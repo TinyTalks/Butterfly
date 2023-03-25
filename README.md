@@ -1,2 +1,2 @@
-# Danmaku-NLP-Hub
-B站弹幕NLP社区建设
+# Butterfly: An Open NLP Research Project for Chinese Danmaku
+
