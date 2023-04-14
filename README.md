@@ -21,3 +21,9 @@
 - 项目地址：https://github.com/TinyTalks/DBsCCorpus
 - 项目进度：开源鬼畜类、电竞类、动漫类、疫情类四个类别弹幕共约100m左右
 - TODO: 爬虫框架开源
+
+### ElephantDR: The Elephant in the Danmaku Room
+- 项目描述：弹幕文本特征分析：语言学视角
+- 项目地址：https://github.com/TinyTalks/ElephantDR
+- 项目进度：完成弹幕文本的基本特征统计，新词现象的总结归纳
+- TODO: 进行中文通用文本特征统计并形成对比
