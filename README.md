@@ -1,7 +1,7 @@
 # Butterfly: An Open NLP Research Project for Chinese Danmaku
 # 中文弹幕文本NLP研究
 
-<div align="center"><img src="https://github.com/TinyTalks/Butterfly/blob/main/TinyTalks.png" height="200px"/></div>
+<div align="center"><img src="https://github.com/TinyTalks/Butterfly/blob/main/TinyTalks.png" /></div>
 
 ## 背景
 - Billbill弹幕语言和现象研究仍以定性为主
