@@ -18,7 +18,7 @@
 - 我们还希望我们的研究可以大大完成对弹幕文本的深层开发，以提升对此类社交媒体平台的舆情监控能力，进而推动中国亚文化、社会传播、青少年教育、群体、心理学、语言学等多个领域的研究发展，提供新的研究视域。
 
 ## 项目分支
-### DBsCCorpus: Diachronic Bullet-screen Comments Corpus
+### DDmkTCCorpus: Diachronic Danmaku Comments Corpus
 - 项目描述：弹幕语料库构建与开源
 - 项目地址：https://github.com/TinyTalks/DBsCCorpus
 - 项目进度：开源鬼畜类、电竞类、动漫类、疫情类四个类别弹幕共约100m左右
