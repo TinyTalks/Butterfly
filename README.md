@@ -20,7 +20,7 @@
 ## 项目分支
 ### DDmkTCCorpus: Diachronic Danmaku Comments Corpus
 - 项目描述：弹幕语料库构建与开源
-- 项目地址：https://github.com/TinyTalks/DBsCCorpus
+- 项目地址：https://github.com/TinyTalks/DDmkTCCorpus
 - 项目进度：开源鬼畜类、电竞类、动漫类、疫情类四个类别弹幕共约100m左右
 - TODO: 数据标注
 
