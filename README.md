@@ -22,10 +22,15 @@
 - 项目描述：弹幕语料库构建与开源
 - 项目地址：https://github.com/TinyTalks/DDmkTCCorpus
 - 项目进度：开源鬼畜类、电竞类、动漫类、疫情类四个类别弹幕共约100m左右
-- TODO: 数据标注
 
 ### ElephantDR: The Elephant in the Danmaku Room
 - 项目描述：弹幕文本特征分析：语言学视角
 - 项目地址：https://github.com/TinyTalks/ElephantDR
 - 项目进度：完成弹幕文本的基本特征统计，新词现象的总结归纳
 - TODO：进行中文通用文本特征统计并形成对比
+  
+### CILLMs: Chinese Internet Large Language Models
+- 项目描述：中文网络大语言模型
+- 项目地址：https://github.com/TinyTalks/PILM/
+- 项目进度：完成Roberta的建模与测试
+- TODO：T5, LLaMa, chatGLM, GPT-2, ChatGPT
